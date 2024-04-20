@@ -1,9 +1,12 @@
-#  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35" /> &nbsp; TypeScript <img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" width="35"/>
+#  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35" /> &nbsp; _TypeScript Basics_ <img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" width="30"/>
 
 <!----------------------------------------- Description ---------------------------------------->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" />&nbsp; _Description_
 
-> ### _TypeScript_ is a 
+> ### _TypeScript_ is a _superset_ to JavaScript. It's a programming language which builds up on _JavaScript_.
+> It adds static typing to the dynamic nature of JavaScript, providing developers with the ability to _catch errors at compile time_ rather than runtime.
+
+
   
 <br/>
 
@@ -14,15 +17,19 @@
 <br/>
 
 ***
-<!--===================== ... =============================-->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35" height="30"  /> &nbsp; _...._  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" width="20"  />
+<!--===================== TypeScript Introduction =============================-->
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35" height="30"  /> &nbsp; _TypeScript Introduction_  <img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" width="25"/>
 - #### In this project, my primary objective is on ..... <br/><br/>
  
 
 > _Which Concepts in Have I Covered_:  
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Flag.png" alt="White Flag" width="20" /> &nbsp; _...._
-- ....
+-  _Install:_ ` npm install -g typescript ` or ` npm install typescript `
+-  _Run the Compiler_: ` npx tsc fileName `
+-  Exploring the Base Types
+-  Working with Array and Object Types
+-  Understanding Type Inference
+
 
  
 <br/>
