@@ -1,6 +1,8 @@
 {
-  "name": "my-app",
+  "name": "todo-typescript",
   "version": "0.1.0",
+  "instructor": "Maximilian Schwarzmuller",
+  "author": "Shahram Shakiba",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

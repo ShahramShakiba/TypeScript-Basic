@@ -1,7 +1,7 @@
 {
   "name": "typescript-intro",
   "instructor": "Maximilian Schwarzmuller",
-  "author": "",
+  "author": "Shahram Shakiba",
   "version": "1.0.0",
   "main": "no-typescript.js",
   "scripts": {
