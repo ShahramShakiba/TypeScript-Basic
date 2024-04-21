@@ -50,3 +50,18 @@ person2 = {
 };
 
 let people2: Person[]; //array full of objs
+
+// 07. Functions & Types
+function add2(a: number, b: number) {
+  return a + b;
+} // return-type: functions can infers the return-type | functions when we work with types, don't just use types for the parameters, but also for the "return-value"
+
+// we can explicitly set the type for the return, you shouldn't do that if you haven't a reason to do that
+function add3(a: number, b: number): number | string {
+  return a + b;
+}
+
+function add4(value: any) {
+  console.log(value);
+} 
+// this fn doesn't return anything, it has no return statement | it has a special return-type called "void" = is basically comparable with null and undefined but it's only used in conjunction with fns | it means this fn never returns
