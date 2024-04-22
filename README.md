@@ -55,7 +55,8 @@
 
 -  _Install:_ ` npm install -g typescript ` or ` npm install typescript `
 -  _Create React App project with TypeScript_: ` npx create-react-app my-app --template typescript `
--  
+-  Working with Props | _React.FC<>_
+-  Adding a Data Model | _what data_ & _what format_
 
 
 
